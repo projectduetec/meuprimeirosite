@@ -1,3 +1,18 @@
 body {background-color: #f5deb3 ;
 
 }
+.img_topo{
+    width: 20%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 2em;
+text-align: justify;
+text-indent: 35px;
+}
