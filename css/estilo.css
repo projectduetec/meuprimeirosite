@@ -1,8 +1,12 @@
-body {background-color: #f5deb3 ;
+body {
+    background-color: #f5deb3 ;
 
 }
 .img_topo{
     width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .container{
     width: 80%;
