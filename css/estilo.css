@@ -20,3 +20,28 @@ p{
     text-indent: 35px;
     text-align: center;
 }
+body {
+    background-color: #f5deb3 ;
+
+}
+.img_topo{
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 2em;
+    text-indent: 35px;
+    text-align: center;
+    text-align: justify;
+    
+}
+
