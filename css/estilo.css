@@ -14,9 +14,16 @@ body {
 }
 h1{
     text-align: center;
-}
+    font-size: 30
+    ;
+        color: blue;
+      }
+      
+      h1 {
+        color: rgb(109, 119, 109);
+      }
 p{
-    font-size: 2em;
+    font-size: 4em;
     text-indent: 35px;
     text-align: center;
 }
@@ -37,11 +44,26 @@ body {
 h1{
     text-align: center;
 }
-p{
-    font-size: 2em;
-    text-indent: 35px;
-    text-align: center;
-    text-align: justify;
-    
+footer{
+    background-color: rgba(9, 7, 6, 0.3);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 4%;
 }
+.menu{
+    background-color: rgba(9, 7, 6, 0.3);       
+    padding: 2%;
+}
+.botao{
+    width: 130px;
+    height: 20px;
+    background-color: black;
+    padding: 1%;
+    margin: auto;  
+    margin-bottom: 2%; 
+    margin-top: 2%;
+}
+
+
+
 
